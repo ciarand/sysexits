@@ -1,0 +1,11 @@
+sysexits
+========
+
+[quote]
+--
+sysexits.h for Go
+--
+
+License
+-------
+BSD, see the LICENSE file.
